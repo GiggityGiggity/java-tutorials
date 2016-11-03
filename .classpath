@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Tutorial_42_toString"/>
+	<classpathentry kind="src" path="Tutorial_43_Composition"/>
+	<classpathentry kind="src" path="Tutorial_44_Enumeration"/>
+	<classpathentry kind="src" path="Tutorial_45_enumSet_range"/>
+	<classpathentry kind="src" path="Tutorial_46_Static_Vars"/>
+	<classpathentry kind="src" path="Tutorial_47_Static_Members"/>
+	<classpathentry kind="src" path="Tutorial_48_Final"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
